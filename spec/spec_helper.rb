@@ -1,0 +1,6 @@
+require 'git_rev'
+require 'minitest'
+require 'minitest/spec'
+require 'minitest/autorun'
+require 'minitest/pride'
+require 'minitest-implicit-subject'
