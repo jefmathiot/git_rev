@@ -1,5 +1,5 @@
 require "git_rev/version"
+require "git_rev/sha"
 
 module GitRev
-  # Your code goes here...
 end
